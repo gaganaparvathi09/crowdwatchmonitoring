@@ -243,4 +243,4 @@ This project is for educational purposes. Use responsibly and comply with local 
 
 ---
 
-**CrowdWatch** - Making public spaces safer through AI-powered crowd monitoring 🚶‍♂️📊
+**CrowdWatch** - Making public spaces safer through AI-powered crowd monitoring 🚶‍♂️📊 
